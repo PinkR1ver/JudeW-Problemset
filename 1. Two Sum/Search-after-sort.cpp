@@ -9,14 +9,14 @@ Using Qsort then search
 using namespace std;
 
 class Solution {
-public:
+private:
     vector<int> qsort(vector<int>& nums)
     {
         vector<int> tmp = nums;
         sort(tmp.begin(), tmp.end());
         return tmp;
     }
-
+public:
     vector<int> twoSum(vector<int>& nums, int target)
     {
         vector<int> tmp = qsort(nums);
