@@ -5,6 +5,9 @@
         "algorithm": "cpp",
         "xutility": "cpp",
         "xtree": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "map": "cpp",
+        "unordered_map": "cpp",
+        "xstring": "cpp"
     }
 }

@@ -1,7 +1,7 @@
 from email.mime import base
 import os
 
-basePath = r'/home/pinkr1ver/Documents/Github Projects/PinkR1ver-leetcode'
+basePath = os.path.dirname(__file__)
 
 def has_number(input_string:str):
     return any(i.isdigit() for i in input_string)
