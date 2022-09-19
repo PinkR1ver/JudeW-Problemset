@@ -9,6 +9,6 @@ def has_number(input_string:str):
 for i in os.listdir(basePath):
     if has_number(i) and os.path.isdir(i):
         for j in os.listdir(i):
-            if ".cpp" not in j:
+            if "." not in j or ".exe" in j:
                 print(j)
                 os.remove(os.path.join(basePath, i, j))
