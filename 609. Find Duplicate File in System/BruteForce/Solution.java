@@ -1,4 +1,4 @@
-package solutionPackage;
+package BruteForce;
 
 import java.util.ArrayList;
 import java.util.List;
