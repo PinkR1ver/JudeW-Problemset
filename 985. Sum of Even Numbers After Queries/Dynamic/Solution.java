@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 class Solution {
     public int[] sumEvenAfterQueries(int[] nums, int[][] queries) {
-        List<Integer> arr = new ArrayList<>();
+        int[] res = new int[queries.length];
         int sum = 0;
         for (int num : nums) {
             if (evenOrNot(num)) {
@@ -34,14 +34,9 @@ class Solution {
                 }
             }
 
-            arr.add(sum);
+            res[i] = sum;
         }
-
-        int[] res = new int[arr.size()];
-        for (int i = 0; i < arr.size(); i++) {
-            res[i] = arr.get(i);
-        }
-
+        
         return res;
 
     }
