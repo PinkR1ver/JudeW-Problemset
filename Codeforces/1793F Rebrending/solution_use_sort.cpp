@@ -39,18 +39,21 @@ int main()
     int n, q;
     cin >> n >> q;
 
-    int growth[n];
+    int* growth;
+    growth = (int*) malloc(sizeof(int) * n);
     for (int i = 0; i < n; i++) {
         cin >> growth[i];
     }
 
-    int ans[q];
+    int* ans;
+    ans = (int*) malloc(sizeof(int) * q);
 
     for (int i = 0; i < q; i++) {
         int l, r;
         cin >> l >> r;
         int length = r - l + 1;
-        int seq[length];
+        int* seq;
+        seq = (int*) malloc(sizeof(int) * length);
         int index = 0;
         
         for (int j = l - 1; j < r; j++) {
