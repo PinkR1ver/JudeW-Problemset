@@ -72,6 +72,8 @@ int main()
 
         ans[i] = difference;
 
+        free(seq);
+
     }
 
     for (int i = 0; i < q; i++) {
