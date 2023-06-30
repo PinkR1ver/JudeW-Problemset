@@ -1,8 +1,5 @@
----
-title: isPrime
----
-
-# Method 1. Brute Force
+# isPrime Method
+## Method 1. Brute Force
 
 ``` c
 int isPrime(int target) {
@@ -23,7 +20,7 @@ int isPrime(int target) {
 }
 ```
 
-# Method 2. Storing PrimeArray
+## Method 2. Storing PrimeArray
 
 You can just traverse `PrimeArray` to determine this number is prime or not.
 
@@ -43,7 +40,7 @@ int isPrime(int target, int count, int* PrimeArray) {
 }
 ```
 
-# Method 3. Eratosthenes筛选
+## Method 3. Eratosthenes筛选
 要得到自然数n以内的全部素数，必须把不大于 的所有素数的倍数剔除，剩下的就是素数。
 
 ```c
@@ -69,7 +66,7 @@ void Eratprime(int* isprime, int upper_board) {
 }
 ```
 
-# Method 4. 欧拉筛选
+## Method 4. 欧拉筛选
 
 埃拉托斯特尼筛法，在“剔除“非素数时，有些合数会重复赋值。这样就增加里复杂度，降低了效率
 
@@ -110,7 +107,15 @@ void PrimeList(int* Prime, bool* isPrime, int n) {
 ```
 
 
+# Euler Prime Generating Formula
+
+$$
+f(n) = n^2 - n + 41
+$$
+
+$f(n)$ is prime for $-39\leq n \leq 40$
 
 # Reference
-[https://zhuanlan.zhihu.com/p/104314640#:~:text=%E7%B4%A0%E6%95%B0%E6%98%AF%E5%A4%A7%E4%BA%8E1%E7%9A%84,%E9%81%8D%E5%8E%86%E5%88%B0n%20%2D%201%20%E5%90%97%EF%BC%9F](https://zhuanlan.zhihu.com/p/104314640#:~:text=%E7%B4%A0%E6%95%B0%E6%98%AF%E5%A4%A7%E4%BA%8E1%E7%9A%84,%E9%81%8D%E5%8E%86%E5%88%B0n%20%2D%201%20%E5%90%97%EF%BC%9F)
+* [https://zhuanlan.zhihu.com/p/104314640#:~:text=%E7%B4%A0%E6%95%B0%E6%98%AF%E5%A4%A7%E4%BA%8E1%E7%9A%84,%E9%81%8D%E5%8E%86%E5%88%B0n%20%2D%201%20%E5%90%97%EF%BC%9F](https://zhuanlan.zhihu.com/p/104314640#:~:text=%E7%B4%A0%E6%95%B0%E6%98%AF%E5%A4%A7%E4%BA%8E1%E7%9A%84,%E9%81%8D%E5%8E%86%E5%88%B0n%20%2D%201%20%E5%90%97%EF%BC%9F)
 
+* [https://math.stackexchange.com/questions/487491/eulers-formula-for-primes](https://math.stackexchange.com/questions/487491/eulers-formula-for-primes)
