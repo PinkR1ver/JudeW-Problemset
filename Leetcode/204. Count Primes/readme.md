@@ -1,3 +1,7 @@
+---
+title: isPrime
+---
+
 # Method 1. Brute Force
 
 ``` c
