@@ -1,6 +1,9 @@
 # Description
 * This project is just for me to record what I have done yet in leetcode and Codeforces and so on.
 
+Here's my Leetcode Profile:
+[JudeW, https://leetcode.com/PinkR1ver/](https://leetcode.com/PinkR1ver/)
+
 ## Leetcode List:
 * [1. Two Sum](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/1.%20Two%20Sum)
 * [2. Add Two Numbers](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/2.%20Add%20Two%20Numbers)
