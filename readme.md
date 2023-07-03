@@ -2,14 +2,14 @@
 * This project is just for me to record what I have done yet in leetcode and Codeforces and so on.
 
 ## Leetcode List:
-1. [Two Sum](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/1.%20Two%20Sum)
-2. [Add Two Numbers](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/2.%20Add%20Two%20Numbers)
-3. [Longest Substring Without Repeating Characters](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
-4. [Median of Two Sorted Arrays](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays)
-204. [Count Primes](https://github.com/PinkR1ver/JudeW-Problemset/blob/25e4e0864927c1c235bdcab901d802748e057e17/Leetcode/204.%20Count%20Primes)
-557. [Reverse Words in a String III](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/557.%20Reverse%20Words%20in%20a%20String%20III)
-609. [Find Duplicate File in System](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/609.%20Find%20Duplicate%20File%20in%20System)
-985. [Sum of Even Numbers After Queries](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/985.%20Sum%20of%20Even%20Numbers%20After%20Queries)
+* [1. Two Sum](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/1.%20Two%20Sum)
+* [2. Add Two Numbers](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/2.%20Add%20Two%20Numbers)
+* [3. Longest Substring Without Repeating Characters](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
+* [4. Median of Two Sorted Arrays](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays)
+* [204. Count Primes](https://github.com/PinkR1ver/JudeW-Problemset/blob/25e4e0864927c1c235bdcab901d802748e057e17/Leetcode/204.%20Count%20Primes)
+* [557. Reverse Words in a String III](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/557.%20Reverse%20Words%20in%20a%20String%20III)
+* [609. Find Duplicate File in System](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/609.%20Find%20Duplicate%20File%20in%20System)
+* [985. Sum of Even Numbers After Queries](https://github.com/PinkR1ver/JudeW-Problemset/blob/cd016ff4be2a9d34470d060d5035af9873f1a2cb/Leetcode/985.%20Sum%20of%20Even%20Numbers%20After%20Queries)
 
 ## Codeforces List:
 * [1793F Rebrending](https://github.com/PinkR1ver/JudeW-Problemset/blob/72d37c2fa6bdc90b7f5d5336e3d7b167bf0733d6/Codeforces/1793F%20Rebrending)
