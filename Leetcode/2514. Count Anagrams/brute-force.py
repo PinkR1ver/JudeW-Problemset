@@ -24,7 +24,7 @@ class Solution:
 
             sum *= sum_tmp
 
-        return sum
+        return sum % (10**9 + 7)
     
 if __name__ == '__main__':
     s = Solution()
