@@ -1,13 +1,10 @@
+import random
+
 class Solution:
     def survivedRobotsHealths(self, positions: list[int], healths: list[int], directions: str) -> list[int]:
         
-        positions_sort = positions.copy()
-        positions_sort.sort()
 
-        position_sort_index = [None] * len(positions)
-        for index, element in enumerate(positions_sort):
-            position_sort_index[index] = positions.index(element)
-
+        position_sort_index = get_sorted_index_array(positions)
 
         health_stack = []
         movement_stack = []
@@ -57,24 +54,68 @@ class Solution:
                 else:
                     break
 
-        index_stack_sort = index_stack.copy()
-        index_stack_sort.sort()
-
-        index_stack_index = [None] * len(index_stack)
-        for index, element in enumerate(index_stack_sort):
-            index_stack_index[index] = index_stack.index(element)
+        index_stack_index = get_sorted_index_array(index_stack)
         
         ans = [None] * len(health_stack)
         for iter, index in enumerate(index_stack_index):
             ans[iter] = health_stack[index]
 
         return ans
+    
+def partition(arr, low, high):
+    random_pivot_index = random.randint(low, high)  # 随机选择pivot的索引
+    arr[high], arr[random_pivot_index] = arr[random_pivot_index], arr[high]
+    
+    i = low - 1
+    pivot = arr[high]
+
+    for j in range(low, high):
+        if arr[j] <= pivot:
+            i += 1
+            arr[i], arr[j] = arr[j], arr[i]
+
+    arr[i + 1], arr[high] = arr[high], arr[i + 1]
+    return i + 1
+
+def quicksort(arr, low, high):
+    if low < high:
+        pi = partition(arr, low, high)
+        quicksort(arr, low, pi - 1)
+        quicksort(arr, pi + 1, high)
+
+def get_sorted_index_array(arr):
+    n = len(arr)
+    index_array = list(range(n))
+
+    def custom_partition(low, high):
+        random_pivot_index = random.randint(low, high)  # 随机选择pivot的索引
+        index_array[high], index_array[random_pivot_index] = index_array[random_pivot_index], index_array[high]
+        
+        i = low - 1
+        pivot = arr[index_array[high]]
+
+        for j in range(low, high):
+            if arr[index_array[j]] <= pivot:
+                i += 1
+                index_array[i], index_array[j] = index_array[j], index_array[i]
+
+        index_array[i + 1], index_array[high] = index_array[high], index_array[i + 1]
+        return i + 1
+
+    def custom_quicksort(low, high):
+        if low < high:
+            pi = custom_partition(low, high)
+            custom_quicksort(low, pi - 1)
+            custom_quicksort(pi + 1, high)
+
+    custom_quicksort(0, n - 1)
+    return index_array
 
 if __name__ == '__main__':
 
-    positions = [1,2,3,4]
-    healths = [1,1,1,4]
-    directions = "RRRL"
+    positions = [3,5,2,6]
+    healths = [10,10,15,12]
+    directions = "RLRL"
 
     s = Solution()
     print(s.survivedRobotsHealths(positions, healths, directions))
