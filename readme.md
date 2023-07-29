@@ -19,6 +19,7 @@ Here's my Leetcode Profile:
 * [2280. Minimum Lines to Represent a Line Chart](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2280.%20Minimum%20Lines%20to%20Represent%20a%20Line%20Chart)
 * [2514. Count Anagrams](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2514.%20Count%20Anagrams)
 * [2751. Robot Collisions](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2751.%20Robot%20Collisions)
-* 
+
+
 ## Codeforces List:
 * [1793F Rebrending](https://github.com/PinkR1ver/JudeW-Problemset/blob/72d37c2fa6bdc90b7f5d5336e3d7b167bf0733d6/Codeforces/1793F%20Rebrending)
