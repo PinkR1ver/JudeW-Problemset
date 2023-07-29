@@ -1,0 +1,1 @@
+Using stack to do detmination
