@@ -18,6 +18,7 @@ Here's my Leetcode Profile:
 * [1830. Minimum Number of Operations to Make String Sorted](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/1830.%20Minimum%20Number%20of%20Operations%20to%20Make%20String%20Sorted)
 * [2280. Minimum Lines to Represent a Line Chart](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2280.%20Minimum%20Lines%20to%20Represent%20a%20Line%20Chart)
 * [2514. Count Anagrams](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2514.%20Count%20Anagrams)
+* [2718. Sum of Matrix After Queries](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2718.%20Sum%20of%20Matrix%20After%20Queries)
 * [2751. Robot Collisions](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2751.%20Robot%20Collisions)
 
 
