@@ -20,6 +20,7 @@ Here's my Leetcode Profile:
 * [2514. Count Anagrams](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2514.%20Count%20Anagrams)
 * [2718. Sum of Matrix After Queries](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2718.%20Sum%20of%20Matrix%20After%20Queries)
 * [2751. Robot Collisions](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2751.%20Robot%20Collisions)
+* [2808. Minimum Seconds to Equalize a Circular Array](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2808.%20Minimum%20Seconds%20to%20Equalize%20a%20Circular%20Array)
 
 
 ## Codeforces List:
