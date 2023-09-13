@@ -1,0 +1,69 @@
+import numpy as np
+
+class Solution:   
+    
+    def handleQuery(self, nums1: list[int], nums2: list[int], queries: list[list[int]]):
+        
+        nums1, nums2 = np.array(nums1), np.array(nums2)
+        adds = np.zeros(len(nums1))
+        ans = []
+        
+        n = len(nums1)
+        tree = segment_tree_build(nums2)
+        
+        
+        for query in queries:
+            if query[0] == 1:
+                nums1[query[1]: query[2]+1] ^= 1
+
+            if query[0] == 2:
+                adds += nums1 * query[1]
+                
+            if query[0] == 3:
+                
+                segment_tree_update(tree, nums2, adds)
+                    
+                adds = 0
+                    
+                ans.append(int(tree[1]))
+                
+        return ans
+        
+    
+def segment_tree_build(nums):
+    n = len(nums)
+    tree = np.zeros(2 * n)
+    
+    tree[n:2 * n] = nums
+    
+    for i in range(n-1, 0, -1):
+        tree[i] = tree[2 * i] + tree[2 * i + 1]
+        
+    return tree
+
+def segment_tree_update(tree, nums, adds):
+    
+    n = len(nums)
+    tree[n:2 * n] += adds
+    
+    for i in range(n-1, 0, -1):
+        tree[i] = tree[2 * i] + tree[2 * i + 1]
+        
+    return tree
+    
+    
+    
+        
+    
+
+
+if __name__ == '__main__':
+    nums1 = [1,0,1]
+    nums2 = [0,0,0]
+    queries = [[1,1,1],[2,1,0],[3,0,0]]
+    
+    s = Solution()
+    print(s.handleQuery(nums1, nums2, queries))
+    
+    # tree = segment_tree_build(nums2)
+    # print(tree)
