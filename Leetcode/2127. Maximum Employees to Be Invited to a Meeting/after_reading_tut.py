@@ -127,14 +127,7 @@ class Solution:
                         break
                 
             
-        
-        
-            
-        
-        
-        
-    
-    
+                
 if __name__ == '__main__':
     
     favorite = [2, 2, 1, 2]

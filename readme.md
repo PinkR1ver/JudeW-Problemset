@@ -22,10 +22,13 @@ Here's my Leetcode Profile:
 * [2280. Minimum Lines to Represent a Line Chart](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2280.%20Minimum%20Lines%20to%20Represent%20a%20Line%20Chart)
 * [2514. Count Anagrams](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2514.%20Count%20Anagrams)
 * [2569. Handling Sum Queries After Update](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2569.%20Handling%20Sum%20Queries%20After%20Update)
+* [2608. Shortest Cycle in a Graph](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2608.%20Shortest%20Cycle%20in%20a%20Graph)
 * [2673. Make Costs of Paths Equal in a Binary Tree](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2673.%20Make%20Costs%20of%20Paths%20Equal%20in%20a%20Binary%20Tree)
 * [2718. Sum of Matrix After Queries](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2718.%20Sum%20of%20Matrix%20After%20Queries)
 * [2751. Robot Collisions](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2751.%20Robot%20Collisions)
 * [2808. Minimum Seconds to Equalize a Circular Array](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2808.%20Minimum%20Seconds%20to%20Equalize%20a%20Circular%20Array)
+* [2903. Find Indices With Index and Value Difference I](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2903.%20Find%20Indices%20With%20Index%20and%20Value%20Difference%20I)
+* [2904. Shortest and Lexicographically Smallest Beautiful String](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String)
 
 
 
