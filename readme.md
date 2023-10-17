@@ -29,6 +29,8 @@ Here's my Leetcode Profile:
 * [2808. Minimum Seconds to Equalize a Circular Array](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2808.%20Minimum%20Seconds%20to%20Equalize%20a%20Circular%20Array)
 * [2903. Find Indices With Index and Value Difference I](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2903.%20Find%20Indices%20With%20Index%20and%20Value%20Difference%20I)
 * [2904. Shortest and Lexicographically Smallest Beautiful String](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String)
+* [2905. Find Indices With Index and Value Difference II](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2905.%20Find%20Indices%20With%20Index%20and%20Value%20Difference%20II)
+* [2906. Construct Product Matrix](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2906.%20Construct%20Product%20Matrix)
 
 
 
