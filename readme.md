@@ -34,7 +34,7 @@ Here's my Leetcode Profile:
 * [2905. Find Indices With Index and Value Difference II](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2905.%20Find%20Indices%20With%20Index%20and%20Value%20Difference%20II)
 * [2906. Construct Product Matrix](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2906.%20Construct%20Product%20Matrix)
 * [2909. Minimum Sum of Mountain Triplets II](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2909.%20Minimum%20Sum%20of%20Mountain%20Triplets%20II)
-
+* [2910. Minimum Number of Groups to Create a Valid Assignment](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2910.%20Minimum%20Number%20of%20Groups%20to%20Create%20a%20Valid%20Assignment)
 
 
 
