@@ -10,10 +10,10 @@ Here's my Leetcode Profile:
 * [3. Longest Substring Without Repeating Characters](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 * [4. Median of Two Sorted Arrays](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays)
 * [204. Count Primes](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/204.%20Count%20Primes)
+* [214. Shortest Palindrome](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/214.%20Shortest%20Palindrome)
 * [307. Range Sum Query - Mutable](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/307.%20Range%20Sum%20Query%20-%20Mutable)
 * [557. Reverse Words in a String III](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/557.%20Reverse%20Words%20in%20a%20String%20III)
 * [609. Find Duplicate File in System](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/609.%20Find%20Duplicate%20File%20in%20System)
-* [852. Peak Index in a Mountain Array](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/852.%20Peak%20Index%20in%20a%20Mountain%20Array)
 * [853. Car Fleet](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/853.%20Car%20Fleet)
 * [985. Sum of Even Numbers After Queries](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/985.%20Sum%20of%20Even%20Numbers%20After%20Queries)
 * [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/1526.%20Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array)
@@ -29,12 +29,14 @@ Here's my Leetcode Profile:
 * [2718. Sum of Matrix After Queries](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2718.%20Sum%20of%20Matrix%20After%20Queries)
 * [2751. Robot Collisions](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2751.%20Robot%20Collisions)
 * [2808. Minimum Seconds to Equalize a Circular Array](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2808.%20Minimum%20Seconds%20to%20Equalize%20a%20Circular%20Array)
+* [2831. Find the Longest Equal Subarray](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2831.%20Find%20the%20Longest%20Equal%20Subarray)
 * [2903. Find Indices With Index and Value Difference I](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2903.%20Find%20Indices%20With%20Index%20and%20Value%20Difference%20I)
 * [2904. Shortest and Lexicographically Smallest Beautiful String](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String)
 * [2905. Find Indices With Index and Value Difference II](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2905.%20Find%20Indices%20With%20Index%20and%20Value%20Difference%20II)
 * [2906. Construct Product Matrix](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2906.%20Construct%20Product%20Matrix)
 * [2909. Minimum Sum of Mountain Triplets II](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2909.%20Minimum%20Sum%20of%20Mountain%20Triplets%20II)
 * [2910. Minimum Number of Groups to Create a Valid Assignment](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/2910.%20Minimum%20Number%20of%20Groups%20to%20Create%20a%20Valid%20Assignment)
+* [3008. Find Beautiful Indices in the Given Array II](https://github.com/PinkR1ver/JudeW-Problemset/tree/master/Leetcode/3008.%20Find%20Beautiful%20Indices%20in%20the%20Given%20Array%20II)
 
 
 
